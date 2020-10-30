@@ -18,6 +18,7 @@ CNC Router Summary
 - USB Game Controller and AutoHotKey
 - Sketchup Make 2017
   - skp_to_dxf extension
+- SolidEdge Community Edition
 - EstlCAM
 
 Planned upgrades
